@@ -114,7 +114,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tilesets\/floortileset.png",
+         "image":"tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -704,7 +704,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/tilesets\/general.png",
+         "image":"tilesets\/general.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -717,7 +717,7 @@
         {
          "columns":2,
          "firstgid":321,
-         "image":"..\/tilesets\/FloorTile_S.jpg",
+         "image":"tilesets\/FloorTile_S.jpg",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -730,7 +730,7 @@
         {
          "columns":16,
          "firstgid":325,
-         "image":"..\/tilesets\/office_1.png",
+         "image":"tilesets\/office_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
