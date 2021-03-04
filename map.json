@@ -730,11 +730,11 @@
         {
          "columns":16,
          "firstgid":325,
-         "image":"tilesets\/office_1.png",
+         "image":"tilesets\/office.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
-         "name":"office_1",
+         "name":"office",
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
