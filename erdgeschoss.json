@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/mdna2.github.io\/testarea\/map.json"
+                 "value":"https:\/\/play.workadventure.mdna.rocks\/_\/global\/mdna2.github.io\/testarea\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
