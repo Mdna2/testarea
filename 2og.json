@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/noris.zoom.us\/j\/93311272495"
+                 "value":"https:\/\/noris.zoom.us\/j\/93311272495#success"
                 }],
          "type":"tilelayer",
          "visible":true,
