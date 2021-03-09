@@ -107,9 +107,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Besprechung206"
+                 "value":"https:\/\/noris.zoom.us\/j\/93311272495"
                 }],
          "type":"tilelayer",
          "visible":true,
